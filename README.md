@@ -10,5 +10,5 @@ The language is Java 11 version.
 
 `Algorithm`
 
-`CodingTest` 
+`CodingTest`
 
